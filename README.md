@@ -24,6 +24,10 @@ A one-click shell script to set up a CDN node for your websites.
 ```
 wget https://raw.githubusercontent.com/YPOJIE/OneClickCDN/master/OneClickCDN.sh && sudo bash OneClickCDN.sh
 ```
+```
+#中文版：
+wget https://raw.githubusercontent.com/YPOJIE/OneClickCDN/master/translation/translated_scripts/OneClickCDN_zh-CN.sh && sudo bash OneClickCDN_zh-CN.sh
+```
 * The script will guide you through the installation and configuration process.  You will also be prompted to add websites.
 * In this process, you will be asked to set up SSL certificate.  You can choose to provide paths to your own SSL files (including private key, certificate, and CA chain certificate if applicable), or generate a free Let's Encrypt SSL certificate (not recommended, because if you have more than 1 CDN node, this will not work).  If you do choose to use the Let's Encrypt function, make sure to point your domain name to your CDN node IP BEFORE setting up the SSL.  You can always set up SSL later by selecting from the main menu.
 * You can run the same script again in SSH in order to bring up the menu.  It will detect your current installation and will skip the installation process.
