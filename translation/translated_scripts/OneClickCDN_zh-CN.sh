@@ -1,13 +1,9 @@
 #!/bin/bash
 #################################################################
-#    One-click CDN Installation Script v0.1.0                   #
-#    Written by shc (https://qing.su)                           #
+#    One-click CDN Installation Script v9.1.4                   #
 #    Github link: https://github.com/Har-Kuun/OneClickCDN       #
-#    Contact me: https://t.me/hsun94   E-mail: hi@qing.su       #
-#                                                               #
 #    This script is distributed in the hope that it will be     #
 #    useful, but ABSOLUTELY WITHOUT ANY WARRANTY.               #
-#                                                               #
 #    Thank you for using this script.                           #
 #################################################################
 
@@ -614,8 +610,6 @@ function display_license
 	echo 
 	echo '*******************************************************************'
 	echo '*       One-click CDN installation script                         *'
-	echo '*       Version 0.1.0                                             *'
-	echo '*       Author: shc (Har-Kuun) https://qing.su                    *'
 	echo '*       https://github.com/Har-Kuun/OneClickCDN                   *'
 	echo '*       Thank you for using this script.  E-mail: hi@qing.su      *'
 	echo '*******************************************************************'
