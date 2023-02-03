@@ -3,8 +3,6 @@
 #    One-click CDN Installation Script v0.0.4                   #
 #    Written by shc (https://qing.su)                           #
 #    Github link: https://github.com/Har-Kuun/OneClickCDN       #
-#    Contact me: https://t.me/hsun94   E-mail: hi@qing.su       #
-#                                                               #
 #    This script is distributed in the hope that it will be     #
 #    useful, but ABSOLUTELY WITHOUT ANY WARRANTY.               #
 #                                                               #
@@ -16,8 +14,8 @@
 #If you changed the download link when installing the script, please also change the link here to match the Traffic Server version you installed.
 #If you did not change the download link during the installation, simply leave it as is.
 
-TS_DOWNLOAD_LINK="https://mirrors.ocf.berkeley.edu/apache/trafficserver/trafficserver-8.1.5.tar.bz2"
-TS_VERSION="8.1.5"
+TS_DOWNLOAD_LINK="https://mirrors.ocf.berkeley.edu/apache/trafficserver/trafficserver-9.1.4.tar.bz2"
+TS_VERSION="9.1.4"
 
 
 #########################################################################
@@ -32,9 +30,7 @@ function display_license
 	echo '*******************************************************************'
 	echo '*       One-click CDN installation script                         *'
 	echo '*       Version 0.0.4                                             *'
-	echo '*       Author: shc (Har-Kuun) https://qing.su                    *'
 	echo '*       https://github.com/Har-Kuun/OneClickCDN                   *'
-	echo '*       Thank you for using this script.  E-mail: hi@qing.su      *'
 	echo '*******************************************************************'
 }
 
