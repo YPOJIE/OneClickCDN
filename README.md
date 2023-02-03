@@ -39,7 +39,7 @@ wget https://raw.githubusercontent.com/YPOJIE/OneClickCDN/master/uninstall.sh &&
 Thank you!
 
 ## Update log
- __Current version: v9.1.4
+Current version: v9.1.4
 
 ## Special note
 * TLS 1.3 will NOT work on CentOS 7 because of old OpenSSL version.  You can of course compile OpenSSL v1.1.1 manually, but that will potentially break a lot of other things, and is not recommended.  If TLS 1.3 is required, please consider using CentOS 8, Ubuntu 20, or Debian 10. 
