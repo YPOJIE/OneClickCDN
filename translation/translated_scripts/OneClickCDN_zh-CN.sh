@@ -1131,7 +1131,8 @@ function say_goodbye
 		/usr/local/bin/trafficserver restart
 	fi
 	echo 
-	echo "感谢您使用此脚本。此脚本作者为 https://qing.su"
+	echo "感谢您使用此脚本。"
+	echo 
 	echo "您可以随时再次运行此脚本，从而添加CDN网站，配置SSL证书，管理网站，查看统计，管理缓存等。"
 	echo 
 	echo "再见，祝您生活愉快!"
