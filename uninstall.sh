@@ -12,8 +12,8 @@
 #If you changed the download link when installing the script, please also change the link here to match the Traffic Server version you installed.
 #If you did not change the download link during the installation, simply leave it as is.
 
-TS_DOWNLOAD_LINK="https://mirrors.ocf.berkeley.edu/apache/trafficserver/trafficserver-9.1.4.tar.bz2"
-TS_VERSION="9.1.4"
+TS_DOWNLOAD_LINK="https://mirrors.ocf.berkeley.edu/apache/trafficserver/trafficserver-9.2.1.tar.bz2"
+TS_VERSION="9.2.1"
 
 
 #########################################################################
@@ -27,7 +27,7 @@ function display_license
 	echo 
 	echo '*******************************************************************'
 	echo '*       One-click CDN installation script                         *'
-	echo '*       Version 9.1.4                                             *'
+	echo '*       Version 9.2.1                                             *'
 	echo '*       https://github.com/Har-Kuun/OneClickCDN                   *'
 	echo '*******************************************************************'
 }
