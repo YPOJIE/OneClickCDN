@@ -1,6 +1,6 @@
 #!/bin/bash
 #################################################################
-#    One-click CDN Installation Script v9.1.4                   #
+#    One-click CDN Installation Script v9.2.1                   #
 #    Github link: https://github.com/Har-Kuun/OneClickCDN       #
 #    This script is distributed in the hope that it will be     #
 #    useful, but ABSOLUTELY WITHOUT ANY WARRANTY.               #
@@ -11,8 +11,8 @@
 #您可以在这里修改Traffic Server源码下载链接。
 #查看https://www.apache.org/dyn/closer.cgi/trafficserver获取最新版本链接。
 
-TS_DOWNLOAD_LINK="https://downloads.apache.org/trafficserver/trafficserver-9.1.4.tar.bz2"
-TS_VERSION="9.1.4"
+TS_DOWNLOAD_LINK="https://downloads.apache.org/trafficserver/trafficserver-9.2.1.tar.bz2"
+TS_VERSION="9.2.1"
 
 
 
