@@ -1,6 +1,6 @@
 #!/bin/bash
 #################################################################
-#    One-click CDN Installation Script v9.1.4                   #
+#    One-click CDN Installation Script v9.2.1                   #
 #    Github link: https://github.com/Har-Kuun/OneClickCDN       #
 #    This script is distributed in the hope that it will be     #
 #    useful, but ABSOLUTELY WITHOUT ANY WARRANTY.               #
