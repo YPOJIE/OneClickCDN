@@ -1,6 +1,6 @@
 #!/bin/bash
 #################################################################
-#    One-click CDN Installation Script v9.1.4                   #
+#    One-click CDN Installation Script v9.2.1                   #
 #    Github link: https://github.com/Har-Kuun/OneClickCDN       #
 #    This script is distributed in the hope that it will be     #
 #    useful, but ABSOLUTELY WITHOUT ANY WARRANTY.               #
@@ -11,8 +11,8 @@
 #You can change the Traffic Server source file download link here.
 #Check https://www.apache.org/dyn/closer.cgi/trafficserver for the latest stable version.
 
-TS_DOWNLOAD_LINK="https://downloads.apache.org/trafficserver/trafficserver-9.1.4.tar.bz2"
-TS_VERSION="9.1.4"
+TS_DOWNLOAD_LINK="https://downloads.apache.org/trafficserver/trafficserver-9.2.1.tar.bz2"
+TS_VERSION="9.2.1"
 
 
 
@@ -610,7 +610,7 @@ function display_license
 	echo 
 	echo '*******************************************************************'
 	echo '*       One-click CDN installation script                         *'
-	echo '*       Version 9.1.4                                             *'
+	echo '*       Version 9.2.1                                             *'
 	echo '*       https://github.com/Har-Kuun/OneClickCDN                   *'
 	echo '*******************************************************************'
 }
